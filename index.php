@@ -19,6 +19,7 @@
                 <th>Nombre</th>
                 <th>Descripción</th>
                 <th>Precio</th>
+                <th>stock</th>
 
             </tr>
         </thead> 
